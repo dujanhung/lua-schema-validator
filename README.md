@@ -10,4 +10,4 @@ ___
 
 ## handle inheritances
 
-## handle 
+## handle members and methods
