@@ -9,7 +9,7 @@
    {
     "name|@required":"str",
     "variant-flag|@required,variant_lang_flag(lua)":"str",
-    "range|op_lang_flag(lua)":"str"
+    "range|op(lang_flag(lua),var(x))":"str"
    }
   ]
  ]
