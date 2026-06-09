@@ -6,8 +6,8 @@ ___
 
 # features
 
-## handle variants
-
 ## handle inheritances
+
+## handle variants
 
 ## handle members and methods
