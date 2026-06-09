@@ -1,0 +1,27 @@
+{
+ "name|@required":"str",
+ "flag|@required,multi-enum(getter,setter)":"str",
+ "inheritance|@required":{
+  "inherit|@required":"str",
+  "inherited-by|@required":"list[str]"
+ },
+ "members|@required,list_flag(allow-multiple)":[
+  {
+   "name|@required":"str",
+   "variant-type|@required":"str",
+   "range|op(lang=lua,var=x)":"str"
+  }
+ ],
+ "methods|@required,list_flag(allow-multiple)":[
+  {
+   "name|@required":"str",
+   "variant-type|@required":"str",
+   "mandatory|list_flag(allow-multiple)":[
+    {
+     "name|@required":"str",
+     "variant-type|@required,variant-lang_flag(lua)":"str"
+    }
+   ]
+  }
+ ]
+}
