@@ -20,8 +20,8 @@
    ]
   }
  ],
- "inheritance":{
-  "inherit":"str",
-  "inherited-by":"list[str]"
+ "inheritance|@required":{
+  "inherit|@required":"str",
+  "inherited-by|@required":"list[str]"
  }
 }
