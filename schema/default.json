@@ -8,8 +8,7 @@
   "mandatory|list_flag(allow-multiple)":[
    {
     "name|@required":"str",
-    "variant-flag|@required,variant_lang_flag(lua)":"str",
-    "range|op(lang_flag(lua),var(x))":"str"
+    "variant-flag|@required,variant_lang_flag(lua)":"str"
    }
   ]
  ]
