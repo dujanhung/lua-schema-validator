@@ -15,7 +15,7 @@
    "mandatory|list_flag(allow-multiple)":[
     {
      "name|@required":"str",
-     "variant-flag|@required,variant_lang_flag(lua)":"str"
+     "variant-flag|@required,variant-lang_flag(lua)":"str"
     }
    ]
   }
