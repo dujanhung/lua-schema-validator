@@ -1,6 +1,10 @@
 {
  "name|@required":"str",
  "flag|@required,multi-enum(getter,setter)":"str",
+ "inheritance|@required":{
+  "inherit|@required":"str",
+  "inherited-by|@required":"list[str]"
+ },
  "members|@required,list_flag(allow-multiple)":[
   {
    "name|@required":"str",
@@ -19,9 +23,5 @@
     }
    ]
   }
- ],
- "inheritance|@required":{
-  "inherit|@required":"str",
-  "inherited-by|@required":"list[str]"
- }
+ ]
 }
