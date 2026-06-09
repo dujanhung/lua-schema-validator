@@ -3,5 +3,12 @@
  "variant-type|@required,variant_lang_flag(lua)":"str",
  "flag|@required,enum(getter,setter)":"str",
  "methods|@required,list_flag(allow-multiple)":[
+  "name|@required":"str",
+  "variant-type|@required":"str",
+  "mandatory|list_flag(allow-multiple)":[
+   {
+    "name|@required":"str"
+   }
+  ]
  ]
 }
