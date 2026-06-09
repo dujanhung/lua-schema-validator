@@ -1,2 +1,3 @@
 # Lua schema validator
-Lua schema
+
+validate Lua schema
