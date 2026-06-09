@@ -1,6 +1,3 @@
-/*
-parser_lang='py'
-*/
 {
  "name|@required":"str",
  "flag|@required,multi-enum(getter,setter)":"str",
