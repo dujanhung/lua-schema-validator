@@ -20,5 +20,6 @@
     }
    ]
   }
- ]
+ ],
+ "inherited-by":"list[str]"
 }
