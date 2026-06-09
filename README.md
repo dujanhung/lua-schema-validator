@@ -1,2 +1,2 @@
-# lua-schema
+# Lua schema validator
 Lua schema
