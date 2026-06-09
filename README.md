@@ -1,3 +1,7 @@
 # Lua schema validator
 
-validate Lua schema
+validate Lua schema.
+
+___
+
+# features
