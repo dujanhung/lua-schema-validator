@@ -5,3 +5,7 @@ validate Lua schema.
 ___
 
 # features
+
+## handle variants
+
+## handle inheritances
