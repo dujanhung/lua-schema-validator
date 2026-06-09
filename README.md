@@ -1,6 +1,6 @@
 # Lua schema validator
 
-validate Lua schema.
+validate Lua schema based on JSON
 
 ___
 
