@@ -11,7 +11,7 @@
    "variant-type|@required":"str",
    "range|op(lang=lua,var=x)":"str"
   }
- ]
+ ],
  "methods|@required,list_flag(allow-multiple)":[
   {
    "name|@required":"str",
