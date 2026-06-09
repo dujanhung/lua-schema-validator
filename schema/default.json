@@ -1,0 +1,7 @@
+{
+ "name|@required":"str",
+ "variant-type|@required,variant_lang(lua)":"str",
+ "flag|@required,enum(getter,setter)":"str",
+ "methods|@required,list_flag(allow-multiple)":[
+ ]
+}
