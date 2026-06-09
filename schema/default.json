@@ -3,6 +3,11 @@
  "variant-type|@required,variant_lang_flag(lua)":"str",
  "flag|@required,enum(getter,setter)":"str",
  "members|@required,list_flag(allow-multiple)":[
+  {
+   "name|@required":"str",
+   "variant-type|@required":"str",
+   "range|op(lang=lua,var=x)":"str"
+  }
  ]
  "methods|@required,list_flag(allow-multiple)":[
   {
