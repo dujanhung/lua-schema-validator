@@ -16,9 +16,9 @@ ___
 
 ### methods
 
-## no modifications
+## no overwrites
 
-files are kept as is.
+target files are kept as is.
 
 ___
 
