@@ -6,7 +6,7 @@ ___
 
 # features
 
-## handle many kinds
+## handle many structures
 
 ### inheritances
 
@@ -15,6 +15,14 @@ ___
 ### members
 
 ### methods
+
+## built-in Lua schema
+
+## custom Lua schema
+
+___
+
+# safe
 
 ## no overwrites
 
